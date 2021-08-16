@@ -1,6 +1,5 @@
 def fibonacci(n: int) -> int:
-    """
-    Computes nth Fibonacci number.
+    """Computes nth Fibonacci number.
 
     Parameters
     ----------
@@ -12,4 +11,3 @@ def fibonacci(n: int) -> int:
     int
         The nth Fibonacci number.
     """
-
