@@ -9,12 +9,12 @@ Using with PyCharm
 ------------------
 
 #. Download the repo
-#. Install it via `pip install .`
-#. Open `Preferences > Tools > External tools > Add`
+#. Install it via :code:`pip install .`
+#. Open :code:`Preferences > Tools > External tools > Add`
 #. Configure as the screenshot shows
-#. (Optional) Bind a hotkey to invoke it, e.g. `Ctrl + X`
+#. (Optional) Bind a hotkey to invoke it, e.g. :code:`Ctrl + X`
 
-.. image:: https://github.com/devforfu/images/external_tool.png
+.. image:: https://github.com/devforfu/prompt/blob/master/images/external_tool.png
 
 Now you should be able to invoke OpenAI's engine to autocomplete selected
 fragment of your source file.
