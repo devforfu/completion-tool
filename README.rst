@@ -18,3 +18,5 @@ Using with PyCharm
 
 Now you should be able to invoke OpenAI's engine to autocomplete selected
 fragment of your source file.
+
+.. image:: https://github.com/devforfu/prompt/blob/master/images/fibonacci.gif
